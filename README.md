@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @toqeertahir
-- 👀 I’m interested in javascript/react
+- 👀 I’m interested in javascript/react web development
 - 🌱 I’m currently learning reactjs
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me https://www.linkedin.com/in/toqeertahir/
